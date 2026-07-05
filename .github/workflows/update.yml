@@ -1,20 +1,17 @@
-# .github/workflows/update-playlist.yml
-
 name: Update Tamil & English IPTV Playlist
 
 on:
   schedule:
-    # Runs every 6 hours (at minute 0 past hour 0, 6, 12, 18)
     - cron: '0 */6 * * *'
   push:
     branches: [ main ]
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Required to commit changes back
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -26,7 +23,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests m3u8
+        run: pip install requests
 
       - name: Run playlist generator
         run: python generate_playlist.py
@@ -37,7 +34,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Stage files
-        run: git add master_playlist.m3u master_playlist_backup.m3u README.md
+        run: git add master_playlist.m3u playlist_backup.m3u README.md
 
       - name: Check for changes
         id: check
@@ -50,10 +47,11 @@ jobs:
 
       - name: Commit changes
         if: steps.check.outputs.CHANGED == 'true'
-        run: git commit -m "Auto-update playlist $(date +'%Y-%m-%d %H:%M:%S UTC')"
+        run: git commit -m "Auto-update playlist"
 
       - name: Push changes
         if: steps.check.outputs.CHANGED == 'true'
         run: |
-          git pull origin main --rebase # Ensure latest changes are pulled
+          git config pull.rebase false
+          git pull origin main -s recursive -X ours
           git push origin main
