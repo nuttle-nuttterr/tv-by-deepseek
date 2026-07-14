@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-name="Colors Tamil" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg" group-title="Tamil GEC",Colors Tamil
 https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=colortamil
 #EXTINF:-1 tvg-name="Jaya TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Tamil GEC",Jaya TV
-http://103.159.180.34:5001/render.m3u8?auth=RR64VWZbOFa-sMsdm6tc4ZE9ky1r0OlMxrz3CzX9_BYTuhmh3iEITHxQR-FZVjmeDXZnVEc-NCyjQ1WoVhzCc9D4plZHvkk3_ru02aq43baxhqEP0VQ80QczenvtkW23Jv1pDWxsY4B-_ME2wspeWtGEmnCQ6wZ66ivaIPpgCbXKzCSxxqRaoCPzdKHTeU2NVwsG2DOInEMvQjAGkm9IuDVs5MqPn2BGZYm7AgeGF6OBxYmgbELOcttCSgSYJDpojQFc3jEXLjYB67wlIaBcT7afgwh81JRiBeWsdfxTswbQDH5kDtfQQeTfAqlWPhG0GiWQHtj_slwPsE8UBV7KeeAMzo-6FGdCKaw=&channel_key_id=419
+http://103.159.180.34:5001/render.m3u8?auth=rSGetHmTwvFARloHmi6RlEPTWZGpsLvdQjdyCAlpM5zGfNWLg4oaae4TmA98zfsAWO0fvMul_TNJkkmE7T4MOjNbzj1AuNjXomwyYnfrbfl-iuhnbf7IFkLVUMu4McJQHDerIB96eal12v-Az9Ps3MIiyzkYopizoi-PHwvY9qEp_rL90b0rN-6Z9KxQQ_A2BXnS9-5ZyROrkQ1JucfOqHrIW8Kpy8xCPWT-Ev4_6NFiO5VOE6X3lhgRHRRn8TrF4ZPPNNbjMM1aLL2vH696F6KdyIuQ1s94ew7O58dGq7iUk__xVTpRISrYl41q4mlG9aOKmc4kHAGj5hRv8wcIQhFxcaXfjfHHAc8=&channel_key_id=419
 #EXTINF:-1 tvg-name="Makkal TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MakkalpaniTV.png" group-title="Tamil GEC",Makkal TV
 https://play.applelive.in/mapatv/mapatv.m3u8
 #EXTINF:-1 tvg-name="Polimer TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Tamil GEC",Polimer TV
@@ -19,11 +19,11 @@ https://play.applelive.in/vasanthtv/vasanthtv.m3u8
 #EXTINF:-1 tvg-name="Vendhar TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Tamil GEC",Vendhar TV
 https://cdn-3.pishow.tv/live/1271/master.m3u8
 #EXTINF:-1 tvg-name="Zee Tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-title="Tamil GEC",Zee Tamil
-http://181.233.125.54:80/live/play/UVVSRmFGSjNlRTUxTVRKUlF5OTNUMnRJYm1zdk9HaDFibWxQU21wRUszZFZLMVJtZGpaNlJVWmhPRDA9/339355
+http://181.233.125.54:80/live/play/UkRWeGVGWm9Oa29yUzAxVlpXRkpVSEpxUlcxNWMybHFlVEVyYWtZeFZrbHdTM1kxYWl0dFlVYzVaejA9/339355
 
 # --- Tamil Movies ---
 #EXTINF:-1 tvg-name="J Movie" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Tamil Movies",J Movie
-http://103.159.180.34:5001/render.m3u8?auth=-6GJT2PHRe3meNnaaN_B7ovV44o_-kqmzX7o-c4BPxRfCV3yHOyOnJJtkZo2-XEsfoUm664yfDzY6g6YryPq5kkjL2aOdVcykr5bhJGly1loKMqE5QzwJtpbtvF4AYE7N_qJywglu2fvZCbkshvE1hOkFU0hmk10Jq730aUB8hgfKqCRHOFYBlu7TCFtC_JYhhF0XLlzYB8FkCqJBOGszCzaETPFuhvKxLce4kdtv-14t7LlDf4XVzca-qdB4HrLhGsRcqRC39IZ26A3WaE428cC94N_Y62eETXj_20yqeOIUv8iKsvP-Z2QmTfMb3sP5i8hGhjRAnarEK6IbDJP5sy--HenfQ==&channel_key_id=417
+http://103.159.180.34:5001/render.m3u8?auth=Rae4Vs8tsuo2PyrDRIkwoPf4p5NQkwfuLfcATzs3H8-pUHdUiKfXR0NR8WxZ-N3HF3TYOFUhEzcd-I_JPRh1h2YBxvkR0KHLbvmkaCcrnV3sO2nnhxU3uYo4rwFCraM8cuxbf_X_lMHwspietepGuLFkRKdcFeinLaoQj3ZvkSFdGAFjyTaMF0N7o60Eqxsjo_Ib4_p6BzHybuHOaNCd2nz2TrP4FQEksH_XSzbdG5vxqm3liezuVIGZheaGav1GoyDuzV1IIyenRJqddk7aBtGr25PkMNu6bo3KDMLirLspmDHD0bWNy8Zi8xwuKUgqzVrvYlmgENIC79EWcE4G4sIz1_XFZQ==&channel_key_id=417
 #EXTINF:-1 tvg-name="KTV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="Tamil Movies",KTV
 https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd
 #EXTINF:-1 tvg-name="Murasu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="Tamil Movies",Murasu
@@ -33,7 +33,7 @@ http://202.70.146.135:8000/play/a008/index.m3u8
 
 # --- Tamil News ---
 #EXTINF:-1 tvg-name="News J" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="Tamil News",News J
-http://103.159.180.34:5001/render.m3u8?auth=VsJNZHiyVH8A4ME8SSnsNzuh-iwnCbIbA8WQaeh3nn-OS8MQ2q1yA3qVf9Qi8kfqV4T2Xved4uhp9nwM0hmqs66aEnwj5ye18dtUewj6EcoxH5Jz_50t2DQH-W72UxiU8-CNpDUTTVQdtCKTv_2m88z3p5FkH3IRENnLujF_MLHRJ5UA2034tcK8zpow8ishgpJ1aime3QgpFCNQJM50IBpE2KAs_qeOlPFXq8CBhXS0F_7mpk9nuWOSd8D0veSPYLO2Qa43PLhemRlWVBjqFiGjRXCDRx9QkNPhudKr14OmyjnmOr8VSBM1SDxyEeyLbyrij-qqvcUHDmXj_S0r2RHrRDsiNmhrWJ5e7ZfVT613z0a8CKB2PyTBBA0sKOiiLV3pwA==&channel_key_id=3234
+http://103.159.180.34:5001/render.m3u8?auth=72_EjRpqI5LKVo7uTGHelHv47ZE4Io2NASsrrfRgaamOqTr0jUr5BZ6NK6q5V0UEaCqs7w8PS2bdy61XnSxGpTtnrVfrRlr_SJVv93bk9R8Zp9lk7toYcXxezyzO8TlEGVxHqmyGNa-FCSBGydCbh-Rz-fDSHsNJT8BXldHBB39Ej5wHP4HLMy5vwNIgdDR1P5CGeLZNmWMVTVgQT8mCETLhAhw5fjlFH0LRuRh711ahUDlMkVPxgwKTbPGhvtIhc5USmZ42gO8kTfuyK3opNQGaI4-q-UHpwiYkTyeX5aBtQ-oUkg8zxHWpVaWlsAiYZ5XxickYZADeZ3WriVKtA9uYIOkAyy-_Xo9CBpGcuxoPVYQBoFACBttND70UgwsM1UMNUg==&channel_key_id=3234
 #EXTINF:-1 tvg-name="News7 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Tamil News",News7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-name="Polimer News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil News",Polimer News
@@ -41,7 +41,7 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-name="Puthiya Thalaimurai" tvg-logo="https://tamilwebcast.com/TV-Logos/PuthiyaThalaimurai.png" group-title="Tamil News",Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1 tvg-name="Raj News Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="Tamil News",Raj News Tamil
-http://103.159.180.34:5001/render.m3u8?auth=1JaUjvvwZ7qxTxaBsDu6E1B-xuDNHXSJv9ROsu3kPUF4tbIWt0jJ01f-685SnQQCjTcJZQYnHzg-m_-6dAV8GT6dOBzPnYovH4bqUciseTMnApOlLwQ5uk9SgfI3pVDrYi63v-aTSvvH6yP0cxDbIgZNfl0JKBK0EQS4gfXvkahKgm0KveaEkhXoixH9vXQsHKbtobgsKrsbCUIDuudJTMOxP-s6-awtJSxykfCk0164aZj0EPxrJQ0__mTCsGKed47Mz3wDRK9QWLBNanvIVcD-5R0lXrmye4qUqJRkttLHXneB5JUryhF7fgREfd_dVOYh0_3Pe9VQMcsponBNJ9wtST0yEnujcigtfRgEADM=&channel_key_id=767
+http://103.159.180.34:5001/render.m3u8?auth=Ek_KpCOHVc_pVLKF8chx9cqBuxYPrEKfpqWMmWPsaJT8Ox6knzwhTA0AH890q4xStHT14OvrfYMzGvvG5aAL80hwdjDH6MD3ee7V7wltEW6UBCQXVJhqdAkgInYznQl9UkNj-jpqOXtad3hjpsG7osMWNkLO-488HuJxeEzPEwW856E8rChP803qadFAUL1TQhAfGJfE1-e51SiH9Y9YR36UoyZ4JVf5JeCOnRLFVUvp9wLEU43yrC5RDY3XcPkj2SHOXfrVX4gE2dpAzx9HcedHol562UOZ60eAgDChRgN2ocAOLQFUFJtjwpoQR62C1uPPrbrBa2TQOdy6YqTKy9x6XLbhVqjrpbf8p6eEVb4=&channel_key_id=767
 #EXTINF:-1 tvg-name="Thanthi TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanti_One.png" group-title="Tamil News",Thanthi TV
 https://cdn-3.pishow.tv/live/1612/master.m3u8
 
@@ -55,9 +55,9 @@ http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
 #EXTINF:-1 tvg-name="Isaiaruvi" tvg-logo="https://tamilwebcast.com/TV-Logos/isaiaruvi.jpeg" group-title="Tamil Music",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-name="Jaya Max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Tamil Music",Jaya Max
-http://181.233.125.54:80/live/play/VWpSUU5rTjZRVUpHUVV0VGJUTTFiM05rVHpkclUyaFBXSEJPZHl0M1VGbFdVM1pTVFRoV1VXVlhXVDA9/339478
+http://103.159.180.34:5001/render.m3u8?auth=XrLY4ysLVa1cvAphN3mBvjBqTjqJ3-MTaFkASG5QaQzlu3fXN7uCLGG-g4uf6yaBDl6SglxeM4AlScFdyffgH4e_-c7glrkP_zuvqgHhvySLhu0BV9qeT4I9a6RIKJe3JBPnhVUgWem7Scn_tA-ijJiTMyYIEppYu4BWDiqwqGECxMrRBEE2Yo2PYAc47njF1tW9g1g2JSfNhEUm_uXAfD0xEjg_j8i1BkRdYPqGI_2-aVY912ELWhzd2iqtVtI69skG5AefI6fKclrvbR51Q277hu0cQOh7wVxet8cTRyPde8D06qQ-V9n18OmVqk8Q4WSXroFwOzGQkgkRADnIQ2QL4qVM9w==&channel_key_id=420
 #EXTINF:-1 tvg-name="Raj Musix Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Tamil Music",Raj Musix Tamil
-http://103.159.180.34:5001/render.m3u8?auth=XV2oHSzvSo4K0kufbP54CL7xgmb8FuzF-VxcY4yy_sKkcBpZRU8i68Awc0cTpgUmyJJfPGa_mB7gHOHGVNCIFV8OvUPAu5SlQb8zzqzSMNfFCQzAnpVr7xKMZOC8L1r_P3CEMYkmBK8_WoDB0QYjnIL7V8gRyoqzRabhGNUhhkKHw1qOelOKWkUg9da8CsP3J0WIY0vR_icDfgAVJC5vOdlq3ujO2oGbYxY6flO6M3n85FfxO-uG18dWSemnMagG1PF2S7rXycbcU8RMG7QdOoAXVhjIASoF2d3Yn36Ls89zgRi5BA2IOlgtdbkiC83hB5xyTPWTHbwgiVSvORW1vPuesgK24Pqg&channel_key_id=748
+http://103.159.180.34:5001/render.m3u8?auth=w2L_8BDQzfR-uGpacarUrlmvP9NVnMgCo4JdwoNi7VnSwskYnDBLXEvFrwdV7oJ5z0MOG0ECImPcLL4M1uTbCYs9f-oA_Aqyrrkm9aFIy5GpjgNzYOQtIpEgXVtdC83H_Iy2qAttJrtz0QgV88b8m6C-FcH3zjKojbwl_PMNSaZWBSvHcvvyWiTjZ64nI6qdSqoPE2ktfffpsIZACzDQ2u-hWuSMq6wo9Mpi7-g99RsIjT4dVoEZ37OxieXFQ42wGWrFN0cNtjxB2e7Z0nC8se98OL2dRgi1Aj_FlWw-zCSGU3gxl2RbZgQpDvGBaXu1rL65Sy8QYn_62ZdIt1TEK5mZWlX-rY-_&channel_key_id=748
 #EXTINF:-1 tvg-name="Sun Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil Music",Sun Music
 https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
 
@@ -69,11 +69,11 @@ https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index
 #EXTINF:-1 tvg-name="Angel TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png" group-title="Tamil Spiritual",Angel TV
 https://cdn-7.pishow.tv/live/453/master.m3u8
 #EXTINF:-1 tvg-name="Jothi TV" tvg-logo="https://i.imgur.com/BmQ0r5S.png" group-title="Tamil Spiritual",Jothi TV
-http://103.159.180.34:5001/render.m3u8?auth=yj18lKAhr8LaCeoFJzdUZveZCmcVlBb_4dcBQaF4DTmwDjSN7-h-et8jDfNBg1yjZYRx9V-AlTzcAq6v3lJTVGwiMZ9UblINQOHvCr99BXGRpLw7KoqPmr_ohPLxplW62dUiQtT2WidARNxsBZqgjfgTnfg-MX-y-_tcBTQEjGV7_O6nekxVU30DapMKKqrSTTioHZw6FKm_Afa1Las2P-TvimvSaIlYNv0_cWrirLd5yRyCWEoPBE7m6JcPbNW-ji7kNsDHNkXeY77ijBo5uU7NEGEtq4V6-t1AxmXLOshu-6yd6wRxjDCzc-FISsaHbUAEE_neQrVwu4nlyNW6JBoiOhWq5A==&channel_key_id=2768
+http://103.159.180.34:5001/render.m3u8?auth=kOoBm4_tfUUU0mxdu0_mIvDZbTSricIHjq41he3mUpXE_y9qEus58yoNXlrIDiERBNWAFUGpsP7cFf5aZC6EtAMBRIh5CzCCCc_JNuYCIC2iL_5ZClAbjMs_s9dLO-NrC96dRUYPhcr8MaRotv-_dyvNo7FFdq02cuvQ4STpfJwHT5Q4lPp_5gxCQBcJIiyC6n-Szgo-RHg9wE53w8hoEs8RWwkL-2TtpB4ZccQmzj6j2hTEti0O1ZtrfwBL4P_Z16vEeeLMvU8q0uNY3HNWSeal43h-JEf9rwrfWMLnktNfxnrmvrYUP0LoeoiPYIU-eJfMCTtFZtfFkm457RWZxGt050bNZw==&channel_key_id=2768
 #EXTINF:-1 tvg-name="Madha TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Madha_TV.png" group-title="Tamil Spiritual",Madha TV
 https://cdn-3.pishow.tv/live/1265/master.m3u8
 #EXTINF:-1 tvg-name="Nambikkai TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="Tamil Spiritual",Nambikkai TV
-http://103.159.180.34:5001/render.m3u8?auth=j8VfR4aFkUd8HUQ5Eg18EAG7yDYEt1E7ZGiH0RSpRVU8Mlxo6a30Sn-aYMnnOUuCwSbXPDi5y9LazgqcLuq4yPfWMiAPGYy2jraKdYEWl7ean7IbSZECOLiG0UtmkoOu2lE6dnBCSXsn0rEBsPLV1tIeIX7LT0laNWPmmKR54gqOysA54mE23glnXK1rUvEoixnlhc1IPbjLe8GMTN2sVAIPD4eEbmwEADmvFWfhBA3H6xZSE3nEw-BC3ivkzHHayfFwzJ_EzuXAeDitBAWWtXht95JJR3VBcprQnyjZlTYhTsch4V0t9ja-ylg8g0kShp-JW63-wCDBlYmjq9_E2CbSnwEnPKRc&channel_key_id=603
+http://103.159.180.34:5001/render.m3u8?auth=RIpITi3E5q6_z5U4wzgD4p06DG9yM8AKBVM94UQ79I_vImaF4wBsdOkjv-aiO403AwwFAeOOB2qoDT7YEqZd3U5gHtP_7ZBzNRncGamvj-RIkeUJVwIx9JX2Hga80q3Qd2EiJYXB0qAfymiSzNbNcOJHLmqXdieQrpY2WWSNM4iA-T-KVHZf1XaTm8uBl0YxxuTDvmwHmKOhnQiqAt-si34agtDaV1nmk_xzfO893wvYAF3jcEwad6Fp3gx1Jn_gj8gxU5pPxkiXrniDd85h1CsrOcHHQJ__J_gcf6ACm8SROUZZ6Jn8eostjMwO8mQLYJmjP33a2y_hlVgk_C63-tCvKA8rSTg6&channel_key_id=603
 #EXTINF:-1 tvg-name="Sri Sankara TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png" group-title="Tamil Spiritual",Sri Sankara TV
 https://cdn-3.pishow.tv/live/1135/master.m3u8
 #EXTINF:-1 tvg-name="Vaanavil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vaanavil_TV.png" group-title="Tamil Spiritual",Vaanavil
@@ -103,7 +103,7 @@ http://202.70.146.135:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-name="Star Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="English Movies",Star Movies
 http://202.70.146.135:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-name="Star Movies Select" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="English Movies",Star Movies Select
-http://103.159.180.34:5001/render.m3u8?auth=_odpswPGbnUrMnImG3QiAjGOBVSMlTgFnqmqvrewtTetgHPRnWelcxhEESfQIsYxQvlar4P7XRLLBXfbBblIzfz7XdcaTaHVcRhuSnD-Wsc5dlg-usgkNPipVsXHMerxRtkYy3IideCAafcD4YY5l-LEG0AB_zeEoQVVczHbDQVJmphS84snKUB6U_z7rpIT8dmjaAdECLDtfyFYOhCSXo7xs1zUOQXWrUm-UvRw5ODREmUwtxF6ETRhQPio2-llepNxil3yGnI9bc4UqMLcpFsFlhaYgZ7E--JrDa6Z0E8C&channel_key_id=3276
+http://103.159.180.34:5001/render.m3u8?auth=NiYqNp8ESeHIo4MISUY0VtXczEEBrVx1xudObH5lTmz2PH75m-vtL54v6iMJbH-ABZtuVZkZTcwqM2eheglkH3u-_LyptmmEn8Nr1DiVpHfrK7NmXDiEgG0x2uVapyouC_4mJCfbf98gqvKl8UHgr8GnKll07pQt9bAxkzmNCtcIpuSDmM4rXqw6NAYpSwH-8Kn1mxox7U-QVAgjyRe0Ob7hSZCb59b050pU7sQB8uSgMJ3HQ6I3AtLCZP-rWUKv1sU1G0PjzBxabIMQepaPmKVKQZPd0oYi_kZLttnSpP1e&channel_key_id=3276
 #EXTINF:-1 tvg-name="WB" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756798791_Logo_00341.png&w=1920&q=75" group-title="English Movies",WB
 https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YzVkMmFlLTIzODgtNDg3Ny1hMTM1LTFiN2RhZDJkYjMxYSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlclBhcnRuZXJTaG93U2xhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJpc3MiOiJzZXJ2aWNlLXBhcnRuZXItYXV0aC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOmMyRnRjM1Z1WjNSMmNHeDFjdz09IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4NDA5MzI0OSwiaWF0IjoxNzg0MDA2ODQ5LCJqdGkiOiI1YTI1YzNiZS1hMjQ0LTQ3NzEtOGM5Yi00M2IzYjUzYWJhZGUifQ.9ZIeu3y3DYvxW6ziadVQH2JMzNeg3Ksw3MoVxKKkPoo
 
@@ -111,13 +111,13 @@ https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f4d86f519358a00072b9
 #EXTINF:-1 tvg-name="India Today" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-101-10z5588214/list/1170x658withlogofbf8f188fa714b538ff5dd8cb80e3bb5.jpg" group-title="English National News",India Today
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8
 #EXTINF:-1 tvg-name="Mirror Now" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mirror_Now.png" group-title="English National News",Mirror Now
-https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-310426/main.m3u8?hdnts=st=1784033315~exp=1784054915~acl=!*/v1/vglive-sk-310426/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_40.116.73.183_yuppfast_2_channel_213_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_40.116.73.183_yuppfast_2_channel_213_-1~hmac=c64aef156be46232dee765147e6efd3d33f7621eb55cff1714c26d6e7636eb6d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=MirrorNow&ads.language=ENG&ads.user=0
+https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-310426/main.m3u8?hdnts=st=1784050901~exp=1784072501~acl=!*/v1/vglive-sk-310426/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.127.214.216_yuppfast_2_channel_213_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.127.214.216_yuppfast_2_channel_213_-1~hmac=0ab650ecbc07bdd2bda8d2daf3c228374793023bf7e5a2ea8bb4cf5194055ba8&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=MirrorNow&ads.language=ENG&ads.user=0
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="English National News",NDTV 24x7
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-227286/v1/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/main.m3u8?hdnts=st=1784033315~exp=1784054915~acl=!*/vglive-sk-227286/v1/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_40.116.73.183_yuppfast_2_channel_1_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_40.116.73.183_yuppfast_2_channel_1_-1~hmac=081e79a5790c8374d63fa3921e260dd6e22f8136ddf5b1f2643c4092fcc21ae4&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTV24x7&ads.language=ENG&ads.user=0
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-227286/v1/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/main.m3u8?hdnts=st=1784050900~exp=1784072500~acl=!*/vglive-sk-227286/v1/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.127.214.216_yuppfast_2_channel_1_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.127.214.216_yuppfast_2_channel_1_-1~hmac=e51f3adba4527008cbfece4621e7326a6872ffaa30b687ec1bfbaf647d778db3&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTV24x7&ads.language=ENG&ads.user=0
 #EXTINF:-1 tvg-name="Republic TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="English National News",Republic TV
 https://cdn-2.pishow.tv/live/271/master.m3u8
 #EXTINF:-1 tvg-name="Times Now" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="English National News",Times Now
-http://103.159.180.34:5001/render.m3u8?auth=3PNEDyWdFFymsjE0iI6HNbZrEr6cPgejJMNEyPs7juzaxU0Hh7qQBwy0CZRIasF1Zrs17J6NndevASrdYV5dY2ZXBqYn272l-imF866OxJClMiAMg1KnDDfcLXPBezxC0skr1GzovqcBz--eNpuxaRZCLOVVGUkx_LNuaUKp001VzGOwn2846V8ZttGaMv6VdqhXJrzMBKQu-GZngApQZqtf2JVerw2IpF_whFs8MY6HkhOfL4cuLxc6twm5HldpCO4qX7iCAG_LstGM2YyvMLR9Tba2lpUHZ57Xbupr95p2294UO6QqtHfPg9qmblGLSSiwbz_LjHPzwW0CUUVP-oJPq1MuM5CKYOyH2Ijw&channel_key_id=876
+http://103.159.180.34:5001/render.m3u8?auth=48YUIhFKS9toGHxPHSWHIHpLEq09e6-LY7YR6wUdXBvKCQLr7biBN9F1u-IUUU-3RacIANVpSyrCY2mIDM6y5dKEO91E4Pm4YB7gD_bqgDrAHCCcJyWPTNxxXyaCbTWk_nl-H9vGfxVMIw8b9_JFfSNcXGVjOQLlBOIjeKHQDhED8mcuRyLTR87hRzSG9icSGaSuTYCqZoMVJKQFicSR3dmEFoIerSF31wE_wZzDqlnFA6HK1gVi3k5rawSuep9RjUJWKtEc1g1Z_9JTfeiBJtjCDY80pf9Pw4R2vHlX4_BDbT89V5dINaei5VDjKaf78xI-1bVt5FYmLZ31vDbG2bM0pjnDIffHSVqk6HOX&channel_key_id=876
 
 # --- English International News ---
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="English International News",Al Jazeera English
@@ -129,7 +129,7 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u
 
 # --- English Business News ---
 #EXTINF:-1 tvg-name="NDTV Profit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="English Business News",NDTV Profit
-https://yuppnimrestreammum.akamaized.net/181224/smil:ndtvprofit.smil/playlist.m3u8?ads.channel=204&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1784033317~exp=1784054917~acl=!*/181224/smil:ndtvprofit.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_40.116.73.183_yuppfast_2_channel_3_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_40.116.73.183_yuppfast_2_channel_3_-1~hmac=21714d44cba3ebfcc621c44c3864c221ce168deff1f914cea30978d16987abc8&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTVProfit&ads.language=ENG&ads.user=0
+https://yuppnimrestreammum.akamaized.net/181224/smil:ndtvprofit.smil/playlist.m3u8?ads.channel=204&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1784050902~exp=1784072502~acl=!*/181224/smil:ndtvprofit.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.127.214.216_yuppfast_2_channel_3_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.127.214.216_yuppfast_2_channel_3_-1~hmac=461daeb3b1f8961d234dd6d234c848516c4eb067bcb27c4073a8dafc1ae12a6b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTVProfit&ads.language=ENG&ads.user=0
 
 # --- English Infotainment ---
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://vmfm.github.io/tamilvmtv/image/Animal_Planet.png" group-title="English Infotainment",Animal Planet
@@ -145,13 +145,15 @@ http://202.70.146.135:8000/play/a067/index.m3u8
 
 # --- English Lifestyle ---
 #EXTINF:-1 tvg-name="Goodtimes" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mxzyyw.png" group-title="English Lifestyle",Goodtimes
-https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/playlist.m3u8?ads.channel=205&ads.content_custom_1_param=FAST&ads.user=2?ads.channel=205&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1784033318~exp=1784054918~acl=!*/230226/ndtvgoodtimes/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_40.116.73.183_yuppfast_2_channel_4_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_40.116.73.183_yuppfast_2_channel_4_-1~hmac=d59478613fc6a6aac7171feb6035beda0d7b29e3a87b826dbd3f1a1b7406becd&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=LIFESTYLE&ads.channel_name=NDTVGoodTimes&ads.language=ENG&ads.user=0
+https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/playlist.m3u8?ads.channel=205&ads.content_custom_1_param=FAST&ads.user=2?ads.channel=205&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1784050903~exp=1784072503~acl=!*/230226/ndtvgoodtimes/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.127.214.216_yuppfast_2_channel_4_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.127.214.216_yuppfast_2_channel_4_-1~hmac=72dfdf97c631bf626362693749176cf224b5220e1b85ca72df1223b524917c70&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=LIFESTYLE&ads.channel_name=NDTVGoodTimes&ads.language=ENG&ads.user=0
 #EXTINF:-1 tvg-name="Travelxp" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="English Lifestyle",Travelxp
-http://103.159.180.34:5001/render.m3u8?auth=f_KEEmOlCk-jAf8D13D-2j6zWb_lyDtIM9m6Vh7nQF39f465go_rbGH1WpqdP7_GbnIY39BZarY18BarR4lB1FGb9NpLEUAypHPsEN9gWSdiBfJ-YOvrGN-Sfq4L8AkwtAX58zC2Io_ia2DzPLIxQO25q_aHz5HcZmzKnxdofru0j6P7FctXuoTbhhAfhDStynlJIJqwh1VsCH5y0jeQt83ihGWCKMb-9jc5zbo6Mk204xXNtHAt7lu5MoszRjzcL9478njoKl34RFzjr0drNHBV3UOdKl1b4wJlV_DzPcbqZAHbyvt5I55R7niLQZJsPzYkZKvggDYqIgEjSsxUQhVLxEa3nKgiWf6soBhz&channel_key_id=164
+http://103.159.180.34:5001/render.m3u8?auth=s1665jSuF2JEQNEcDFDzGcbjFqleSt7PzTbjyldj3vKfnKV3lPgEu1A8tKgIOVQhrrPq4KUWoycsjWjjwABSTA1vA0C1TDjnzz4_MWWSGo6DQ-o5BSLAQOvWLvgKtmacqwQMmipNdi3ldV-nqLMhHahK4MyRXQL97yvcg2FRJr2p84DcprJ7vRCfhGnvVWcf_8oSPOr_4-cDzOrE9JlKAiCBcruIHIk4Z3omKTGUVjj71nIVUovyf3y3O5oomYuNIuMznM9WdZXXRIFFl8chYv6e3G48Xp6cdfiowlfKdKIp_8FctyjPEKs15hlJV87lAB6IE8Jj8UhHh1Xa1iAZJ4Fk6XKVYHW91Uhy-FTT&channel_key_id=164
 
 # --- English Kids ---
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="English Kids",Disney Channel
 http://202.70.146.135:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="English Kids",Disney Junior
+http://116.90.120.157:8000/play/a0qo/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets//16x9-1719554242246.jpg" group-title="English Kids",Nickelodeon
 http://202.70.146.135:8000/play/a02n/index.m3u8
 
@@ -159,11 +161,11 @@ http://202.70.146.135:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports",Eurosport
 http://202.70.146.135:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Ten 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Sports Ten 1
-https://files.catbox.moe/uizjo7.mp4
+https://raw.githubusercontent.com/Jatin-0-7/intro/main/intro_playlist0.ts
 #EXTINF:-1 tvg-name="Sony Sports Ten 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",Sony Sports Ten 2
 http://202.70.146.135:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Ten 5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Sports Ten 5
-http://202.70.146.135:8000/play/a09r/index.m3u8
+https://files.catbox.moe/uizjo7.mp4
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1
 http://202.70.146.135:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" group-title="Sports",Star Sports 2
@@ -214,8 +216,6 @@ http://103.87.105.51:8080/acpisaioli/acpisaioli.m3u8?psk=123456
 http://103.87.105.51:8080/acphd/acphd.m3u8?psk=123456
 #EXTINF:-1 tvg-name="Adhisayam TV" tvg-logo="https://i.imgur.com/6b3nJcD.png" group-title="Tamil Local Channels",Adhisayam TV
 https://livetv.adhisayamtv.org/adhisayamtv/83a062a18a761b948a73ad2ba7747a8f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Advika TV" tvg-logo="https://play-lh.googleusercontent.com/GpP7fx3D7WauJEGYJkj8lJGuRVE3m5IqTKDqK74HIRhk2M_Hg49TSwlcP_oUUPKEt8ij=w512-h960-rw" group-title="Tamil Local Channels",Advika TV
-https://stream.advikadigital.in/advika/advika/index.mpd
 #EXTINF:-1 tvg-name="Aha TV" tvg-logo="https://bmcloud.in/apptest/uploads/6936d638886a5.jpg" group-title="Tamil Local Channels",Aha TV
 https://rtmp.bmlive.net/bms/ahatv/index.m3u8
 #EXTINF:-1 tvg-name="AJK Movie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" group-title="Tamil Local Channels",AJK Movie
@@ -226,6 +226,8 @@ http://ptuf.ridsys.in/riptv/live/AJK_TV/index.m3u8
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
 #EXTINF:-1 tvg-name="Amma TV" tvg-logo="https://i.ibb.co/Zp4nBKwg/Amma-TV.jpg" group-title="Tamil Local Channels",Amma TV
 https://annainew.livebox.co.in/ammatvhls/live.m3u8
+#EXTINF:-1 tvg-name="Anandham TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/anandham.jpg" group-title="Tamil Local Channels",Anandham TV
+https://server.sscloud7.in/live/anandhamtv/index.mpd
 #EXTINF:-1 tvg-name="Annai Tamil" tvg-logo="https://i.ibb.co/BhR84nG/Annai-Tamil-HD.jpg" group-title="Tamil Local Channels",Annai Tamil
 https://annainew.livebox.co.in/annaitamilhls/live.m3u8
 #EXTINF:-1 tvg-name="Annai TV" tvg-logo="https://i.ibb.co/F4htQDVY/Annai-TVHD.jpg" group-title="Tamil Local Channels",Annai TV
@@ -270,8 +272,6 @@ http://deepam.7starcloud.com:1935/live/deepamtv/live.m3u8
 https://play.applelive.in/devatv/devatv.m3u8
 #EXTINF:-1 tvg-name="Dharshan TV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/DHARSANTV_Transparent_616466fe-382a-4a91-980c-53b030dd81db.png" group-title="Tamil Local Channels",Dharshan TV
 https://galaxyott.live/hls/dharshantv.m3u8
-#EXTINF:-1 tvg-name="Digital TV" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/digital%20tv.png" group-title="Tamil Local Channels",Digital TV
-https://play.applelive.in/digitaltv/digitaltv.m3u8
 #EXTINF:-1 tvg-name="Dolphin Tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/Dolphin Tv.png" group-title="Tamil Local Channels",Dolphin Tv
 https://play.applelive.in/dolphintv/dolphintv.m3u8
 #EXTINF:-1 tvg-name="Eagle TV Nagercoil" tvg-logo="https://i.ibb.co/35M9h2Sj/Eagletv.jpg" group-title="Tamil Local Channels",Eagle TV Nagercoil
@@ -280,8 +280,6 @@ https://play.applelive.in/eagletv/eagletv.m3u8
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-name="Family Channel" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/03/family-channel-420x237.jpg" group-title="Tamil Local Channels",Family Channel
 https://2-fss-2.streamhoster.com/pl_118/203324-1410936-1/chunklist.m3u8
-#EXTINF:-1 tvg-name="Ganesh TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1734974165_IMG-20241223-WA0162-removebg-preview.png&w=1080&q=75" group-title="Tamil Local Channels",Ganesh TV
-https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Garudan TV" tvg-logo="https://tamiltvchannels.com/img/Devotional%20H/Garudan.png" group-title="Tamil Local Channels",Garudan TV
 https://play.applelive.in/hls/garudantv.m3u8
 #EXTINF:-1 tvg-name="GEM TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/gem-tv.jpg" group-title="Tamil Local Channels",GEM TV
@@ -362,8 +360,8 @@ https://server.sscloud7.in/live/malligai/index.mpd
 https://stream6.livebox.co.in/manasutvhls/live.m3u8
 #EXTINF:-1 tvg-name="Mariya Annai TV" tvg-logo="https://play-lh.googleusercontent.com/7B-s6NkYveQUWUZpcwi8unjEwxpHXHG34k7M707DK_Da7IFv48CYXqYgE3jUrCawbg=w512-h960-rw" group-title="Tamil Local Channels",Mariya Annai TV
 https://play.applelive.in/mariyaannaitv/mariyaannaitv.m3u8
-#EXTINF:-1 tvg-name="Mathan TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MathanTV.png" group-title="Tamil Local Channels",Mathan TV
-https://ipcloud.live/mathantv/mathantv/index.mpd
+#EXTINF:-1 tvg-name="Mayil TV" tvg-logo="https://phoenixcreations.online/ott/vinayagaott/uploads/1782824649_mayil%20tv%20logo%20ip%20tv%20copy.jpg" group-title="Tamil Local Channels",Mayil TV
+http://103.186.231.25:8080/hls/mayiltv/index.m3u8
 #EXTINF:-1 tvg-name="MCN TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/mcn-tv-1.png" group-title="Tamil Local Channels",MCN TV
 https://play.applelive.in/mcntv/mcntv.m3u8
 #EXTINF:-1 tvg-name="MDN TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/MDN-tv-1 (2).png" group-title="Tamil Local Channels",MDN TV
@@ -390,8 +388,6 @@ http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
 https://account21.livebox.co.in/oscartvhls/live.m3u8
 #EXTINF:-1 tvg-name="Params TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777263574_params%202.png" group-title="Tamil Local Channels",Params TV
 http://shreeparams.7starcloud.com:1935/live/paramstv/live.m3u8
-#EXTINF:-1 tvg-name="PCN Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1769084640_new%20pcn%20logo.psd%20-%20PNG%2000%20(2).png" group-title="Tamil Local Channels",PCN Channel
-https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
 #EXTINF:-1 tvg-name="Peniel TV" tvg-logo="https://play-lh.googleusercontent.com/nGUr3mUAO4e7D2vhu9qgfQYUHSttDW_WoYXyqbQ3njxq0XILcNhkcHXXNt0LPv1FvrY" group-title="Tamil Local Channels",Peniel TV
 http://indiamatrix.in/penieltv/penieltv.m3u8
 #EXTINF:-1 tvg-name="Polimer Channel" tvg-logo="https://play-lh.googleusercontent.com/DiZsLeRIoky2i4qkkR36SF7R5MR_fwb0Hl41U3wAlVZsi1wKMBxbK3fzvln8YUQrmbkV=w512-h960-rw" group-title="Tamil Local Channels",Polimer Channel
@@ -428,6 +424,8 @@ https://ktismaservers.in:3902/live/salvationtvlive.m3u8
 https://ca.streamjo.com/live/samugam.m3u8
 #EXTINF:-1 tvg-name="Selfie TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782729015.webp" group-title="Tamil Local Channels",Selfie TV
 https://play.applelive.in/selfeetv/selfeetv.m3u8
+#EXTINF:-1 tvg-name="Selva Tamil TV" tvg-logo="https://play-lh.googleusercontent.com/DzEobB1q02UpgqXpng4DebsPDTQ1bH_jpLfhEr_plkPrDBBPpR5_jvJDq15VAPAanVIwnh5MYLuH8wgc5mUt" group-title="Tamil Local Channels",Selva Tamil TV
+https://stream.sscloud7.in/live/selvatamiltv/index.mpd
 #EXTINF:-1 tvg-name="Sha TV" tvg-logo="https://play-lh.googleusercontent.com/YFCBVclNFznGAyBf1EdTdpeIvkf-poU1k_YiCRFJky3_1f-UZXiIho2cCobvgsno-wIA" group-title="Tamil Local Channels",Sha TV
 https://play.applelive.in/shatv/shatv.m3u8
 #EXTINF:-1 tvg-name="Sharon TV" tvg-logo="https://bmcloud.in/apptest/uploads/6855909199a57.png" group-title="Tamil Local Channels",Sharon TV
@@ -492,8 +490,8 @@ https://kali.vdopanel.com:3169/stream/play.m3u8
 http://cdn.utvtamil.in/utvkovai/utv/playlist.m3u8
 #EXTINF:-1 tvg-name="VDS TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VDSTV.png" group-title="Tamil Local Channels",VDS TV
 http://117.247.192.123:8080/vds/vds.m3u8?psk=123456
-#EXTINF:-1 tvg-name="Veerbox" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/Veerbox.png" group-title="Tamil Local Channels",Veerbox
-https://stream.advikadigital.in/advika/veerbox/index.mpd
+#EXTINF:-1 tvg-name="Vidiyal TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1743757301_IMG-20250404-WA0100.jpg&w=1920&q=75" group-title="Tamil Local Channels",Vidiyal TV
+https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
 #EXTINF:-1 tvg-name="Vinmeen Music" tvg-logo="https://tamiltvchannels.com/img/devotional/Vinmeen%20Music.png" group-title="Tamil Local Channels",Vinmeen Music
 https://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 #EXTINF:-1 tvg-name="Visaka TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748146464_TV%2520(1)%2520(1).png&w=1920&q=75" group-title="Tamil Local Channels",Visaka TV
